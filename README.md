@@ -21,6 +21,14 @@ data.match(g)
 # Plots g along with the best match from the dataset
 ```
 
+# fourier-transform
+
+An IPython notebook; can be used to remove noise from images and .wav audio files.
+
+# image-segmentation
+
+An IPython notebook for segmenting images using the Laplacian matrix and the imageio module.
+
 ## Acknowledgement
-This code began as the solutions to the Facial Recognition lab in Foundations of Applied Mathematics, Volume 1 
+This code began as the solutions to the Facial Recognition, Fourier Transform, and Image Segmentation labs accompanying the Foundations of Applied Mathematics books
 by Jeffrey Humpherys, Tyler J. Jarvis, and Emily J. Evans.
